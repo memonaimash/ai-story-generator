@@ -30,4 +30,4 @@ Add any extra information here.
 
 ## Thank You
 
-Thanks for contributing to **Intelligent Story Generator** 🚀
+Thanks for contributing to **AI Story Generator** 🚀
