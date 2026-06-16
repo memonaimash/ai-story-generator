@@ -61,11 +61,16 @@ Through this project, I improved my understanding of:
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Character Creation
+<img width="1918" height="687" alt="image" src="https://github.com/user-attachments/assets/bc9506c4-17a3-44b3-b807-77cb75a1e486" />
+<img width="1915" height="687" alt="image" src="https://github.com/user-attachments/assets/baaf0eab-2434-4e7a-a232-6ad177a6af3c" />
 
-* Character Creation Tab
-* Story Settings Tab
-* Generated Story Output
+### Story Settings
+<img width="1918" height="292" alt="image" src="https://github.com/user-attachments/assets/f7f6ee05-eac8-4e84-bead-8083dc2fab5e" />
+
+### Generated Story
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/32c01df1-3ae3-4459-8ae5-a4a8edf7fb50" />
+<img width="1020" height="377" alt="image" src="https://github.com/user-attachments/assets/fd59998c-c8e7-4bf2-81b2-43b9848a4ba2" />
 
 ## 👨‍💻 Author
 
