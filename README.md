@@ -76,6 +76,4 @@ Through this project, I improved my understanding of:
 
 **Aimash Waheed**
 
-Artificial Intelligence Student | Python Developer | Java Developer | Machine Learning Enthusiast
-
 ⭐ If you like this project, consider giving it a star.
